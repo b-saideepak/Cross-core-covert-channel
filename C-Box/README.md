@@ -29,3 +29,4 @@ The convert.sh script converts the output file from the previous format to the f
 physicalCacheLineAddress,sliceNumber
 
 Note: The last 6 bits (Cache line offset are omitted) and the sliceNumber is calculated based on which slice has the highest number of LLC references
+
