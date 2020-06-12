@@ -29,3 +29,4 @@ One way to check for correctness is to find the number of bits that differ. This
 `bash
 diff -y --suppress-common-lines 10000-send 10000-recv | wc -l
 `
+
