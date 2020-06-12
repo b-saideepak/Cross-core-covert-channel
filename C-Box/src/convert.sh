@@ -12,3 +12,4 @@ else if($4>$5) {max = 2}
 else {max = 3}
 print $1/64","max
 }'
+
