@@ -43,3 +43,4 @@ int main(int argc, char* argv[]){
 
 	printf("%d\n", (val1<<1 | val0));
 }
+
