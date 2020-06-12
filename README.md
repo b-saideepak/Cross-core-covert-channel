@@ -1,5 +1,7 @@
 # Cross-core-covert-channel
-Implementation code of a covert channel across cores using Last Level Cache
+```
+Implementation of a Cross-Core Covert Channel using Last Level Cache.
+```
 
 ## References
 
