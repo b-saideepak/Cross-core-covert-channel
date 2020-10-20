@@ -1,6 +1,6 @@
 # Cross-core-covert-channel
 ```
-Implementation of a Cross-Core Covert Channel using Last Level Cache.
+Implementation of a Cross-Core Covert Channel using Last Level Cache. The implementation works if your processor allows writing to msrs.
 ```
 
 ## References
